@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20201211T180000Z
+DTEND:20201211T190000Z
+DTSTAMP:20201208T183134Z
+ORGANIZER;CN=aimanian@tda-i.com:mailto:aimanian@tda-i.com
+UID:338bavv68ut997tkba9gcbut2q@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=lkara@cmu.edu;X-NUM-GUESTS=0:mailto:lkara@cmu.edu
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=aimanian@tda-i.com;X-NUM-GUESTS=0:mailto:aimanian@tda-i.com
+X-MICROSOFT-CDO-OWNERAPPTID:-989704345
+CREATED:20201208T183133Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/otz-ihmt-
+ smm\n(US) +1 347-773-4058 PIN: 804065031#\nView more phone numbers: https:/
+ /tel.meet/otz-ihmt-smm?pin=5136076726189&hs=7\n\nView your event at https:/
+ /calendar.google.com/calendar/event?action=VIEW&eid=MzM4YmF2djY4dXQ5OTd0a2J
+ hOWdjYnV0MnEgbGthcmFAY211LmVkdQ&tok=MTgjYWltYW5pYW5AdGRhLWkuY29tMzdiNjc1NDJ
+ hZTQ3N2NiNWEyYjlmYTc5MGZjYmI2ZmZhYmRjNTE2Zg&ctz=America%2FNew_York&hl=en&es
+ =1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~::~:~::-
+LAST-MODIFIED:20201208T183133Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Progress meeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

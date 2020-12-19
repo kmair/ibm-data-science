@@ -1,0 +1,8 @@
+# Folders
+**/*md_files/
+**/.idea/
+
+# File formats
+*.html
+*.png
+*.docx
