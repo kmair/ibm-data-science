@@ -6,3 +6,7 @@
 *.html
 *.png
 *.docx
+
+# API Key
+**/api.txt
+# Applied Data Science Capstone/Chipotle project/api.txt
